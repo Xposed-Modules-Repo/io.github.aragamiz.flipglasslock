@@ -5,7 +5,7 @@
 - **源码仓库**：[Aragamiz/flipglasslock](https://github.com/Aragamiz/flipglasslock)
 - **LSPosed 作用域**：仅需勾选 **系统界面 (`com.android.systemui`)**
 - **支持系统**：Xiaomi MIX Flip 2 / HyperOS 3 & HyperOS 4
-- **Release Tag 格式**：`68-1.0.68`（`[versionCode]-[versionName]`）
+- **Release Tag 格式**：`69-1.0.69`（`[versionCode]-[versionName]`）
 
 ## 功能特性
 
